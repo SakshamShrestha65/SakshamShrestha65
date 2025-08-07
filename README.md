@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Im undegraduate school from NHS 
 
 <!--
 **SakshamShrestha65/SakshamShrestha65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
